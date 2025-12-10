@@ -24,7 +24,7 @@ def main():
     response = requests.get(url)
     
     # BeautifulSoup(response.content, "html.parser") <--- Úkol: popiš krátce, co tohle dělá
-    # vrátí stránku jako html přes který pak můžeme vyzobávat co chcem
+    # vrátí stránku jako html přes který pak můžeme vyzobávat co chcem pomocí různých komandu jako .select 
     pushToJson = [
 
     ]
