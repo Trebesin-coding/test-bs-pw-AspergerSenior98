@@ -12,8 +12,17 @@ ingredience_cesnecka = [
     "pivo",
     "krutony",
     "cizrna",
-    "mariánka",
-    "pepř"
+    "majoránka",
+    "pepř",
+    "brambor",
+    "cibule",
+    "vývar",
+    "vejce",
+    "nové koření",
+    "bobkový list",
+    "sádlo",
+    "slanina"
+
 ]
 
 
